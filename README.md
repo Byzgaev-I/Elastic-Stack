@@ -26,7 +26,7 @@ Filebeat следует сконфигурировать для отправки
 
 - Cкриншот docker ps через 5 минут после старта всех контейнеров (их должно быть 5):
 
-![image.j(https://github.com/Byzgaev-I/Elastic-Stack/blob/main/2.png)
+![image.j)(https://github.com/Byzgaev-I/Elastic-Stack/blob/main/2.png)
 
 - скриншот интерфейса kibana:
   
