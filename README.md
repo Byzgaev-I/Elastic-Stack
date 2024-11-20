@@ -22,4 +22,12 @@ Filebeat следует сконфигурировать для отправки
 - ваши yml-конфигурации для стека (если вы не использовали директорию help).
 
 
-![image.jpg](https://github.com/Byzgaev-I/Grafana/blob/main/2.png)
+![image.jpg](https://github.com/Byzgaev-I/Elastic-Stack/blob/main/1.png)
+
+- Cкриншот docker ps через 5 минут после старта всех контейнеров (их должно быть 5):
+
+![image.j(https://github.com/Byzgaev-I/Elastic-Stack/blob/main/2.png)
+
+- скриншот интерфейса kibana:
+  
+![image.jpg](https://github.com/Byzgaev-I/Elastic-Stack/blob/main/3.png)
